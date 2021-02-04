@@ -127,9 +127,9 @@ Comparison operators | Descriptions
 --- | ---
 == | Equal to
 != | Not equal to
-> | Greater than
+\> | Greater than
 < | Less than
->= | Greater than or equal to
+\>= | Greater than or equal to
 <= | Less than or equal to
 is | Object identity
 is not | Negated object identity
