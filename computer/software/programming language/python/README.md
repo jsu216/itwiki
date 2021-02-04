@@ -207,8 +207,7 @@ Type |  Description
 int |  Since python 3, integer type including both 32 bits, 64 bits integer and long integer in other languages
 long |  Does not exist in python3 (only supported in python 2)
 float |  A floating point number, like a double in C or Java
-complex |  Complex numbers have a real and an imaginary
-component, each is a float.
+complex |  Complex numbers have a real and an imaginary component, each is a float.
 boolean |  True or False
 
 ### Built-in object types
@@ -229,12 +228,12 @@ Common python operators
 
 Operator | Action | Example
 --- | --- | ---
-+ | Adds items together; for strings and sequences concatenates | 1 + 1 -> 2<br>"one" + "one" -> "oneone"
-- | subtraction | 1 - 1 -> 0
-* | multiplication, with strings, repeats string | 2 * 3 -> 6<br>"one" * 2 -> "oneone"
-/ (//) | division, division of integers results in (an integer with truncation in Python 2.x) a float in Python 3.x (// is integer division in Python 3.x) | 3/2 -> 1 (Python 2.x)<br>3/2 -> 1.5 (Python 3.x)<br>4/2 -> 2 (Python 2.x)<br>4/2 -> 2.0 (Python 3.x)<br>4//2 -> 2 (Python 3.x)
-** | Exponent - raises a number to the given exponent | 3**2 -> 9
-% | mod | 5 % 2 -> 1<br>100 % 10 -> 0
++ | Adds items together; for strings and sequences concatenates | 1 + 1 -\> 2<br>"one" + "one" -\> "oneone"
+- | subtraction | 1 - 1 -\> 0
+* | multiplication, with strings, repeats string | 2 * 3 -\> 6<br>"one" * 2 -\> "oneone"
+/ (//) | division, division of integers results in (an integer with truncation in Python 2.x) a float in Python 3.x (// is integer division in Python 3.x) | 3/2 -\> 1 (Python 2.x)<br>3/2 -\> 1.5 (Python 3.x)<br>4/2 -\> 2 (Python 2.x)<br>4/2 -\> 2.0 (Python 3.x)<br>4//2 -\> 2 (Python 3.x)
+** | Exponent - raises a number to the given exponent | 3**2 -\> 9
+% | mod | 5 % 2 -\> 1<br>100 % 10 -\> 0
 
 ### Sequence indexes and slicing
 
