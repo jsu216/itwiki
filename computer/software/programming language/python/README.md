@@ -123,16 +123,16 @@ else:
 
 The `something_is_true` is called expressions that have either `True` or `False` value.
 
-Comparison operators |  Descriptions
---- |  ---
-== |  Equal to
-!= |  Not equal to
-> |  Greater than
-< |  Less than
->= |  Greater than or equal to
-<= |  Less than or equal to
-is |  Object identity
-is not |  Negated object identity
+Comparison operators | Descriptions
+--- | ---
+== | Equal to
+!= | Not equal to
+> | Greater than
+< | Less than
+>= | Greater than or equal to
+<= | Less than or equal to
+is | Object identity
+is not | Negated object identity
 
 In general, zero or empty sequences are False, everything else is True. (__Python does not have a switch statement__)
 
